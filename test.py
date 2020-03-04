@@ -23,8 +23,5 @@ class BlackJacTest(unittest.TestCase):
         self.assertEqual(len(s_deck_2), len(s_deck))
 
 
-
-
-
 if __name__ == "___main__":
     unittest.main()
